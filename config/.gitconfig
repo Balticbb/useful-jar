@@ -1,0 +1,9 @@
+[user]
+	name = jackLiu
+	email = liujialin@jinhuhang.com.cn
+[color]
+	ui = auto
+[core]
+	quotepath = false
+[http]
+	sslVerify = false
